@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Any
 - ⚡ Fun fact: I like frogs
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runkaiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
