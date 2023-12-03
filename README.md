@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=runkaiz&show_icons=true&theme=radical)
 
 - 💬 Ask me about uhhh... anything?
-- 📫 How to reach me: runkai.zhang@icloud.com
+- 📫 How to reach me: rzhang04@proton.me
 - 😄 Pronouns: Any would do
 - ⚡ Fun fact: I like frogs
 
