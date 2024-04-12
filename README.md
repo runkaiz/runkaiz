@@ -2,12 +2,12 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=runkaiz&show_icons=true&theme=radical)
 
+<!--
 - 💬 Ask me about uhhh... anything?
 - 📫 How to reach me: rzhang04@proton.me
 - 😄 Pronouns: Any would do
 - ⚡ Fun fact: I like frogs
 
-<!--
 **runkaiz/runkaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
