@@ -1,23 +1,17 @@
-### Hi there 👋
+### Hi, I'm Runkai 🐸
 
-![](https://github-readme-stats.vercel.app/api?username=runkaiz&show_icons=true&theme=radical)
+I design and build native apps, web products and AI systems. I care about how an interface feels and about the systems that make it work. Currently studying Human Centered Design & Engineering at the University of Washington, class of 2027.
 
-<!--
-- 💬 Ask me about uhhh... anything?
-- 📫 How to reach me: rzhang04@proton.me
-- 😄 Pronouns: Any would do
-- ⚡ Fun fact: I like frogs
+**A few things I've made**
 
-**runkaiz/runkaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Notable](https://github.com/runkaiz/Notable), a SwiftUI text editor with semantic search and CloudKit sync ([App Store](https://apps.apple.com/us/app/notable-text-editor/id6451117230))
+- [Bement School app](https://github.com/bement-dev/Bement-app), a Swift/UIKit school app built with the school's administrators and IT
+- [Foresight OCR](https://github.com/runkaiz/foresight-ocr), provenance-first OCR and review for Chinese genealogy records, built for my dad
+- [Shift-C](https://github.com/runkaiz/shift-c), sleep-schedule transition plans with calendar export
+- Code contributions to [TeleCoach](https://github.com/yych42/telecoach) (TypeScript/SvelteKit)
 
-Here are some ideas to get you started:
+**Usually writing** Swift · TypeScript · Svelte · Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: Any
-- ⚡ Fun fact: I like frogs
--->
+[runkaizhang.xyz](https://runkaizhang.xyz)
+
+<sub>Fun fact: I like frogs.</sub>
